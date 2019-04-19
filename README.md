@@ -1,9 +1,9 @@
 # Prusa-MK3-Material-Profiles
-A collection of Slic3r profiles for a variety of materials for the Prusa i3 MK3
+A collection of Slic3r profiles for a variety of materials for the Prusa i3 MK3, these are to give you a starting point on printing a new material! Or perhaps to refine a material that you are having difficulty with!
 
 The Excel sheet contained within this repository serves as a record of which profiles were used for which specific material. 
 
-These are not what I would consider 'production grade' material profiles, some of these profiles are more mature than others, see the excel sheet for notes. 
+These are not what I would consider 'production grade' material profiles, some of these profiles are more mature than others, see the excel sheet for notes. I generally err on the side of slow, but works every time, rather than fast but fails more frequently. 
 
 I use the Benchy model to do all my filament testing, so these profiles are built around successfully printing a Benchy.
 
