@@ -1,7 +1,9 @@
 # Prusa-MK3-Material-Profiles
-A collection of Slic3r profiles for a variety of materials for the Prusa i3 MK3, these are to give you a starting point on printing a new material! Or perhaps to refine a material that you are having difficulty with!
+A collection of PrusaSlicer profiles for a variety of materials for the Prusa i3 MK3, these are to give you a starting point on printing a new material! Or perhaps to refine a material that you are having difficulty with!
 
-The Excel sheet contained within this repository serves as a record of which profiles were used for which specific material. 
+The Excel sheet contained within this repository serves as a record of which profiles were used for which specific material as well as notes on each material. A version of this spreadsheet can be found on Google Sheets Here:
+
+https://drive.google.com/file/d/1SbTdjm-I4oLfkiFyARATvnQLrJoVnf3x/view?usp=sharing
 
 These are not what I would consider 'production grade' material profiles, some of these profiles are more mature than others, see the excel sheet for notes. I generally err on the side of slow, but works every time, rather than fast but fails more frequently. 
 
